@@ -394,18 +394,20 @@ font-size: 30px;
 }
 .about-bi p {
   color: gray;
+  font-size: 30px;
 
 }
 .about-bi h1{
+  font-size: 45px;
   color: white;
 }
 .bitr {
-  font-size: x-large;
-  color: lightcoral; 
+  font-size: 50px;
+  color: lightcoral;
   text-align: center;
 }
 .copy_right {
-  font-size: x-large;
+  font-size: 35px;
   color: white;
   text-align: center;
 }
