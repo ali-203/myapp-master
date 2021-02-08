@@ -366,7 +366,6 @@ font-size: 30px;
 
 }
 .smart-contract {
-  font-size: x-large;
     padding-top: 1%;
     text-align: center;
     width: 35%;
@@ -434,39 +433,41 @@ font-size: 30px;
   background-color: #111113;
 }
 .crypto_profit {
-  border-radius: 6px 6px 6px 6px;
-  margin-top: 10px;
-  margin-right: 1%;
-  background-color: #212529;
-  width: 35%;
-  margin-left: 14%;
+  height: 284px;
+    border-radius: 6px 6px 6px 6px;
+    margin-top: 15px;
+    margin-right: 1%;
+    background-color: #212529;
+    width: 35%;
+    margin-left: 14%;
 }
 .smart-rewrd {
   border-radius: 6px 6px 6px 6px;
-  margin-top: 10px;
+  margin-top: 15px;
   background-color: #212529;
   width: 35%;
   margin-left: 1%;
 }
 .crypto_profit h1{
+  font-size: 50px;
+  color: lightcoral; 
   text-align: center;
-  font-family: system-ui;
+  margin-top: 56px;
 }
 .crypto_profit p {
-  padding-right: 1%;
-    font-size: x-large;
-    padding-left: 6%;
+  font-size: 32px;
+    padding-left: 4%;
     color: gray;
 }
 .smart-rewrd h1 {
+  color: lightcoral; 
+  font-size: 50px;
   text-align: center;
-  font-family: sans-serif;
 }
 .smart-rewrd p{
-  padding-right: 1%;
-  font-size: x-large;
-  padding-left: 6%;
-  color: gray;
+    padding-left: 5%;
+    color: gray;
+    font-size: 32px;
 }
 
 
