@@ -352,14 +352,18 @@ font-size: 30px;
 }
 .crypto_wallet{
   padding-top: 1%;
-    text-align: center;
-    margin-left: 14%;
-    width: 35%;
-    color: gray;
-    background-color: #212529;
-    padding-bottom: 5%;
-    font-size: x-large;
-    border-radius: 6px 6px 6px 6px;
+  text-align: center;
+  margin-left: 14%;
+  width: 35%;
+  color: gray;
+  background-color: #212529;
+  padding-bottom: 2%;
+  border-radius: 6px 6px 6px 6px;
+}
+.crypto_wallet p {
+  font-size: 33px;
+    padding-top: 20px;
+
 }
 .smart-contract {
   font-size: x-large;
@@ -371,12 +375,16 @@ font-size: 30px;
     margin-left: 2%;
     border-radius: 6px 6px 6px 6px;
 }
+.smart-contract p{
+  font-size: 32px;
+}
+
 .four_card {
   padding-top: 1%;
   display: flex;
 }
 .four_card h1 {
-  font-family: monospace;
+  font-size: 50px;
   color: lightcoral; 
 }
 
