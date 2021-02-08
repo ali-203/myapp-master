@@ -39,14 +39,16 @@ color: #fc0254;
 }
 .tele_grm {
   margin-top: 70px;
-  font-size: x-large;
+  font-size: 25px;
   background: #033248;
   border-radius: 10px 10px 10px 10px;
   height: 130px;
   width: 360px;
+  color: white;
 }
 .smrtcntr {
-  font-size: x-large;
+  font-size: 25px;
+  color: white;
   background: #bb4049;
   border-radius: 10px 10px 10px 10px;
   height: 130px;
@@ -201,7 +203,6 @@ background-color:#28a745;
 }
 .daily_divi h5 {
 color: gray;
-font-size: 30px;
 }
 .fifth-button {
   border: 5px solid white;
