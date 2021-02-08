@@ -128,7 +128,7 @@ function App() {
                     <div><h2>Reward 3%</h2></div>
                 </div>
 
-                </div>  
+                </div>
                 <div className="inpt_cpy">  
                 <input type="text" name="text" />
                 <div className="cpy-hed">
