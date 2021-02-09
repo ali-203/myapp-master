@@ -2,24 +2,23 @@ body{
   margin: 0;
   padding: 0;
   background-color: #111113;
-}
+} 
 .main{
   background-image: url("../src/img.png");
-
 }
+
 .text_imag {
-  color: white;
-  font-weight: 500;
-  align-items: center;
-  margin-top: 135px;
-  padding-left: 10%;
-  display: flex;
-  padding-bottom: 150px;
-  font-size: xx-large;
-
+  font-size: 45px;
+    color: white;
+    align-items: center;
+    margin-top: 135px;
+    padding-left: 10%;
+    display: flex;
+    padding-bottom: 150p;
 }
+
 .imag_second {
-  margin-right: 120px;
+margin-left: 100px;
 }
 
 .decentrlized h3 {
@@ -42,8 +41,8 @@ color: #fc0254;
   font-size: 25px;
   background: #033248;
   border-radius: 10px 10px 10px 10px;
-  height: 130px;
-  width: 360px;
+  height: 180px;
+  width: 533px;
   color: white;
 }
 .smrtcntr {
@@ -51,8 +50,8 @@ color: #fc0254;
   color: white;
   background: #bb4049;
   border-radius: 10px 10px 10px 10px;
-  height: 130px;
-  width: 360px;
+  height: 180px;
+  width: 533px;
 }
 .logo_img {
   margin-top: 14%;
@@ -473,3 +472,10 @@ font-size: 30px;
 
 
 
+
+/* @media (min-width: 800px) { #decentrlized{
+  border: 15px solid red;
+} }
+@media (max-width: 500px) { #decentrlized{
+  border: 15px solid blue;
+} } */
