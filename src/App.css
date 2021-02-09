@@ -3,9 +3,12 @@ body{
   padding: 0;
   background-color: #111113;
 } 
+
 .main{
   background-image: url("../src/img.png");
 }
+
+
 .imag_second {
   margin-right: 140px;
 }
@@ -473,7 +476,25 @@ font-size: 50px;
 
 
 
-/* @media (min-width: 800px) { #decentrlized{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (min-width: 800px) { .main{
   border: 15px solid red;
 } }
 @media (max-width: 500px) { #decentrlized{
