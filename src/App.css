@@ -6,21 +6,19 @@ body{
 .main{
   background-image: url("../src/img.png");
 }
+.imag_second {
+  margin-right: 140px;
+}
 
 .text_imag {
-  font-size: 45px;
+  font-size: 50px;
     color: white;
     align-items: center;
     margin-top: 135px;
     padding-left: 10%;
     display: flex;
-    padding-bottom: 150p;
+    padding-bottom: 220px;
 }
-
-.imag_second {
-margin-left: 100px;
-}
-
 .decentrlized h3 {
   color: #fc0254;
 }
@@ -29,6 +27,7 @@ margin-left: 100px;
 }
 .decentrlized h2 {
   color: white;
+  font-size: 84px;
 }
 .in_7{
   color: #fc0254;
@@ -40,7 +39,7 @@ color: #fc0254;
   margin-top: 70px;
   font-size: 25px;
   background: #033248;
-  border-radius: 10px 10px 10px 10px;
+  border-radius: 20px 20px 20px 20px;
   height: 180px;
   width: 533px;
   color: white;
@@ -49,7 +48,7 @@ color: #fc0254;
   font-size: 25px;
   color: white;
   background: #bb4049;
-  border-radius: 10px 10px 10px 10px;
+  border-radius: 20px 20px 20px 20px;
   height: 180px;
   width: 533px;
 }
@@ -63,18 +62,15 @@ color: #fc0254;
   color: #e8505b;
     text-align: center;
     padding-top: 65px;
-    font-size: 65px;
+    font-size: 95px;
 }
 
 .three_div {
-  padding-left: 82px;
-  text-align: center;
-  margin-top: 60px;
-  display: flex;
-  justify-content: space-around;
-  padding-right: 148px;
-  
-  
+  padding-left: 142px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding-right: 222px;
 }
 
 .total_trx {
@@ -87,8 +83,8 @@ color: #fc0254;
 }
 .total_invested {
   border-radius: 4px;
-  width: 27%;
-  background-color:#212529;
+    width: 27%;
+    background-color: #212529;
 }
 .total_dividen{
   border-radius: 4px;
@@ -96,20 +92,20 @@ color: #fc0254;
   background-color:#212529;
 }
 .inner_trx{
-  margin-top: 150px;
-    font-size: 34px;
-    color: #17a2b8
+  margin-top: 228px;
+  font-size: 50px;
+  color: #17a2b8;
 
 }
 .inner_investor{
-  margin-top: 150px;
-    font-size: 34px;
+  margin-top: 228px;
+  font-size: 50px;
     color: lightgreen;
 
 }
 .inner_divide{
-  margin-top: 150px;
-  font-size: 34px;
+  margin-top: 228px;
+  font-size: 50px;
   color: yellow;
 }
 

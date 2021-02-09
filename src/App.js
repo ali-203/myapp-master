@@ -20,7 +20,7 @@ function App() {
                         </div>
 
                     
-                    <img className="imag_second" src="money.png" width="1500" />
+                    <img className="imag_second" src="money.png" width="2000" />
                 </div>
                 </div>
                 
