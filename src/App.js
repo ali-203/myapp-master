@@ -56,7 +56,7 @@ function App() {
                 <div className="daily_return">
                 
             <h1>18.28% Daily Returns</h1>
-            <p>128% In 7 Days</p>
+            <h4>128% In 7 Days</h4>
             <p>Updates Every Seconds</p>
             <p>Wallet Balance: TRX</p>
             </div>
@@ -99,7 +99,7 @@ function App() {
         
             </div>
              <div className="inves_nm">
-            <img src="investment.png" height="550px"/>
+            <img src="investment.png" height="700"/>
             </div> 
             </div>
 

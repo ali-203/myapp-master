@@ -111,17 +111,16 @@ color: #fc0254;
 
 .forth_div {
   border-radius: 10px 10px 10px 10px;
-  padding-top: 1%;
   margin-top: 3%;
+  padding-bottom: 110px;
   color: black;
   margin-left: 8%;
   padding-left: 10%;
   background-color: #212529;
   width: 27%;
-  height: 900px;
 }
 .daily_invst h1 {
-  font-size: 50px;
+  font-size: 85px;
   color: lightcoral;
 }
 .trx-put {
@@ -132,13 +131,17 @@ color: #fc0254;
   color: #007bff;
 }
 .daily_return p {
-  padding-left: 100px;
-    color: darkgray;
-    font-size: 30px;
-  margin-top: 20px;
+  padding-left: 117px;
+  color: darkgray;
+  font-size: 46px;
+}
+.daily_return h4{
+  font-size: 44px;
+    color: gray;
+    margin-left: 172px;
 }
 .daily_return h1{
-font-size: 55px;
+font-size: 85px;
 }
 .daily_return input {
   font-size: large;
@@ -148,39 +151,38 @@ font-size: 55px;
 
 
 .forth-button {
-  border-radius: 6px 6px 6px 6px;
-  margin-left: 12%;
-  width: 43%;
-  height: 60px;
+  border-radius: 10px 10px 10px 10px;
+  width: 49%;
   margin-top: 2%;
-  border: 5px solid white;
+  border: 8px solid white;
   background-color: #28a745;
+  margin-left: 85px;
+  padding-bottom: 20px;
  
 }
 .forth-button button {
   margin-left: 35%;
   margin-top: 4%;
-  font-size: 30px;
+  font-size: 40px;
 background-color:#28a745;
   border: none;
   color: white;
 }
 .transaction {
   margin-bottom: 10px;
-  font-size: 25px;
+  font-size: 36px;
   color: gray;
-  margin-left: 30px;
+  margin-left: 60px;
 }
 .center_towdiv {
   display: flex;
 }
 .fifth_div{
-  height: 573px;
-    margin-top: 3%;
-    background-color: #212529;
+  background-color: #212529;
     margin-left: 5%;
     margin-top: 3%;
-    width: 39%;
+    width: 40%;
+    margin-bottom: 100px;
     border-radius: 4px;
 
 }
@@ -189,24 +191,24 @@ background-color:#28a745;
 }
 .daily_divi  h1{
   color: lightcoral;
-  font-size: 55px;
-    margin-top: 6%;
+    font-size: 85px;
+    margin-top: 4%;
 }
 .daily_divi p {
-  font-size: 30px;
+  font-size: 42px;
   color: gray;
 }
 .daily_divi h5 {
 color: gray;
+font-size: 26px;
 }
 .fifth-button {
-  border: 5px solid white;
-  border-radius: 4px;
-  margin-left: 34%;
-  width: 33%;
-  height: 66px;
-  margin-top: 0%;
-  background-color: red;
+  border: 6px solid white;
+    border-radius: 6px 6px 6px 6px;
+    margin-left: 34%;
+    width: 33%;
+    height: 92px;
+    background-color: red;
 }
 .fifth-button button{
      
@@ -214,20 +216,20 @@ color: gray;
   background-color: red;
   border: none;
   color: white;
-  font-size: 30px;
+  font-size: 40px;
 }
 .six_div{
+  margin-left: 316px;
+  margin-bottom: 352px;
   text-align: center;
-    margin-top: 1%;
-    background-color: #212529;
-    margin-left: 8%;
-    width: 40%;
-    border-radius: 4px;
-    height: 245px;
+  margin-top: 2%;
+  background-color: #212529;
+  width: 37%;
+  border-radius: 6px 6px 6px 6px;
 
 }
 .six_div p {
-  font-size: 26px;
+  font-size: 46px;
   color: gray;
 
 }
@@ -238,21 +240,22 @@ color: gray;
 
 
 .inves_nm {
-  margin-left: 6%;
+  margin-left: 10%;
+  margin-top: 230px;
 }
 .account_select {
   text-align: center;
   padding-top: 8%;
   color: gray;
-  font-size: 30px;
+  font-size: 40px;
 }
 .Referra_Status {
-  font-size: 30px;
+  font-size: 45px;
   text-align: center;
   color: lightcoral; 
 }
 .referal {
-  font-size: 27px;
+  font-size: 40px;
   display: flex;
   padding-left: 43%;
   color: gray;
@@ -267,39 +270,39 @@ color: gray;
   padding-right: 1%;
   text-align: center;
   margin-top: 60px;
-  height: 160px;
+  height: 250px;
   display: flex;
   justify-content: space-around;
 }
 .reward_10 {
-  border-radius: 8px 8px 8px 8px;
+  border-radius: 15px 15px 15px 15px;
   margin-right: auto;
   border: 6px solid #007bff;
   width: 31%;
   margin-left: 2%;
 }
 .reward_6 {
-  border-radius: 8px 8px 8px 8px;
+  border-radius: 15px 15px 15px 15px;
   margin-right: auto;
   border: 6px solid #007bff;
   width: 31%;
 }
 .reward-5 {
-  border-radius: 8px 8px 8px 8px;
+  border-radius: 15px 15px 15px 15px;
   margin-right: auto;
   border: 6px solid #007bff;
   width: 31%;
 }
 .level_3 h2 {
   color: lightcoral; 
-  font-size: 30px;
+  font-size: 50px;
 }
 .inpt_cpy {
   
   padding-left: 20%;
   padding-top: 5%;
   display: flex;
-  font-size: 29px;
+  font-size: 45px;
 }
 .inpt_cpy input {
   background-color: #111113;
@@ -316,7 +319,7 @@ color: gray;
  color: lightcoral;  
 }
 .two_para {
-  font-size: 30px;
+  font-size: 45px;
   margin-top: 3%;
   text-align: center;
   color: gray;
@@ -326,17 +329,17 @@ color: gray;
 .link_head {
   
 padding-top: 10px;
-font-size: 30px;
+font-size: 50px;
   text-align: center;
   color: lightcoral; 
 
 }
 .href_pdf {
-  font-size: 40px;
+  font-size: 60px;
   color: lightcoral; 
 }
 .bi_tron {
-  font-size: 25px;
+  font-size: 40px;
   text-align: center;
   padding-top: 4%;
   color: gray;
@@ -355,7 +358,7 @@ font-size: 30px;
   border-radius: 6px 6px 6px 6px;
 }
 .crypto_wallet p {
-  font-size: 33px;
+  font-size: 42px;
     padding-top: 20px;
 
 }
@@ -369,7 +372,7 @@ font-size: 30px;
     border-radius: 6px 6px 6px 6px;
 }
 .smart-contract p{
-  font-size: 32px;
+  font-size: 42px;
 }
 
 .four_card {
@@ -377,7 +380,7 @@ font-size: 30px;
   display: flex;
 }
 .four_card h1 {
-  font-size: 50px;
+  font-size: 85px;
   color: lightcoral; 
 }
 
@@ -388,48 +391,49 @@ font-size: 30px;
 }
 .about-bi p {
   color: gray;
-  font-size: 30px;
+  font-size: 42px;
 
 }
 .about-bi h1{
-  font-size: 45px;
+  font-size: 75px;
   color: white;
 }
 .bitr {
-  font-size: 50px;
+  font-size: 70px;
   color: lightcoral;
   text-align: center;
 }
 .copy_right {
-  font-size: 35px;
+  font-size: 50px;
   color: white;
   text-align: center;
 }
 .trx-put input {
-  border-radius: 6px 0px 0px 6px;
-    width: 60%;
+  border-radius: 10px 10px;
+    width: 70%;
 }
 .trx-put{
   height: 14%;
     display: flex;
-    width: 90%;
+    width: 76%;
 }
 .trx-put h2 {
-  padding-top: 3%;
   border-radius: 0px 6px 6px 0px;
-  margin-bottom: 0%;
   background-color: lightgray;
-  margin-top: 0%;
-  width: 14%;
-  text-align: center;
-  font-weight: 500;
-}
+    width: 15%;
+    height: 112px;
+    padding-top: 10px;
+    margin-top: 4px;
+    text-align: center;
+    font-size: 30px;
+  }
 .four_invest {
+  padding-top: 16px;
   display: flex;
   background-color: #111113;
 }
 .crypto_profit {
-  height: 284px;
+  padding-bottom: 100px;
     border-radius: 6px 6px 6px 6px;
     margin-top: 15px;
     margin-right: 1%;
@@ -445,25 +449,25 @@ font-size: 30px;
   margin-left: 1%;
 }
 .crypto_profit h1{
-  font-size: 50px;
-  color: lightcoral; 
+  font-size: 80px;
+  color: lightcoral;
   text-align: center;
-  margin-top: 56px;
+  margin-top: 57px;
 }
 .crypto_profit p {
-  font-size: 32px;
+  font-size: 42px;
     padding-left: 4%;
     color: gray;
 }
 .smart-rewrd h1 {
   color: lightcoral; 
-  font-size: 50px;
+  font-size: 85px;
   text-align: center;
 }
 .smart-rewrd p{
     padding-left: 5%;
     color: gray;
-    font-size: 32px;
+    font-size: 45px;
 }
 
 
